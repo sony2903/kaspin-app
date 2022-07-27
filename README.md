@@ -2,6 +2,7 @@
 
 Kaspin-app is a simple CRUD with **3rd Party API**.
 
+Postman : https://www.getpostman.com/collections/2a000c10258e0c1fad78
 
 # Installation
 install package
